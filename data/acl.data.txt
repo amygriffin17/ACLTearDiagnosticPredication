@@ -1,0 +1,124 @@
+age	sex	knee	lachman-injured	anterior-drawer-injured	lever-injured	physician-diagnosis	lachman-unaffected	anterior-drawer-unaffected	lever-unaffected	effusion	MRI 	OR	prev-knee-surgery	MOI	sport	fall	contact
+29	F	L	0	0	1	0	0	0	1	0	1	1	0	landing	none	1	0
+30	M	R	1	0	1	1	0	0	1	1	1	1	0	unspecified	soccer	0	0
+18	M	L	1	0	0	1	0	0	0	0	1	1	0	plant	soccer	0	0
+31	M	R	1	0	0	1	0	0	0	1	1	1	0	valgus	basketball	0	0
+28	F	R	0	0	0	0	0	0	0	1	1	1	1	plant	soccer	0	0
+31	M	R	1	1	0	1	0	0	0	1	1	1	0	plant	football	0	0
+19	F	R	0	0	0	0	0	0	0	1	1	1	0	hyperextend	none	0	0
+18	M	L	1	1	1	1	0	0	0	1	1	1	0	hyperextend	other	0	0
+28	M	R	1	0	0	1	0	0	0	0	1	1	0	unspecified	soccer	0	0
+14	M	R	1	1	0	1	0	0	0	1	1	1	0	plant	football	0	0
+36	M	L	0	0	1	0	0	0	0	0	1	1	0	landing	volleyball	0	0
+36	M	L	0	0	0	0	0	0	0	0	1	1	0	twist	basketball	0	0
+56	F	R	0	0	1	0	0	0	0	1	1	1	0	unspecified	exercise	0	0
+30	F	L	0	0	0	0	0	0	0	1	1	1	0	unspecified	none	1	0
+37	M	R	1	0	0	1	0	0	0	0	1	1	0	twist	none	0	0
+51	F	L	0	0	0	0	0	0	0	1	1	1	0	unspecified	exercise	0	0
+49	F	R	0	0	0	0	0	0	0	1	1	1	0	no inciting event	none	0	0
+58	M	L	0	0	0	0	0	0	0	1	1	1	0	unspecified	none	0	1
+44	F	R	1	0	0	1	0	0	0	0	1	1	0	twist	none	0	0
+48	M	L	0	0	0	0	0	0	0	1	1	1	0	landing	none	0	0
+54	M	R	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+51	F	R	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+49	M	R	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+58	M	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	exercise	0	0
+53	F	L	1	1	1	1	0	0	0	0	1	1	0	unspecified	other	0	1
+28	M	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	other	0	1
+24	M	R	1	1	1	1	0	0	0	0	1	1	0	twist	exercise	0	0
+31	M	L	0	0	0	0	0	0	0	0	1	1	0	pivot	none	0	0
+23	M	R	1	1	0	1	0	0	0	1	1	1	0	plant	basketball	0	0
+39	F	L	1	1	1	1	0	0	0	1	1	1	0	unspecified	exercise	1	0
+34	F	R	1	1	1	1	0	0	1	1	1	1	0	landing	none	0	0
+39	M	L	0	0	0	0	0	0	0	0	1	1	0	twist	none	0	0
+19	F	L	1	0	0	1	0	0	0	1	1	1	0	hyperextend	basketball	0	0
+31	M	L	1	0	0	1	0	0	0	0	1	1	0	unspecified	soccer	0	0
+20	M	R	1	1	0	1	0	0	0	1	1	1	0	twist	basketball	0	0
+35	F	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	none	0	0
+23	M	R	0	0	0	0	0	0	0	0	1	1	0	landing	basketball	0	0
+19	F	L	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+39	F	L	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+39	F	L	1	1	0	1	0	0	1	1	1	1	0	valgus	other	0	0
+34	M	R	0	0	0	0	0	0	0	1	1	1	0	twist	other	0	0
+23	M	R	1	1	1	1	0	1	1	0	1	1	0	hyperextend	other	0	0
+37	M	L	1	0	0	1	0	0	0	0	1	1	0	landing	football	0	0
+39	M	R	0	0	1	0	0	0	0	0	1	1	0	unspecified	none	0	0
+15	M	R	0	0	0	0	0	0	0	1	1	1	0	no inciting event	none	0	0
+31	F	L	1	1	1	1	0	0	0	1	1	1	0	hyperextend	none	0	0
+39	F	L	0	0	0	0	0	0	0	0	1	1	0	hyperextend	none	0	0
+17	M	R	1	1	0	1	0	1	0	0	1	1	0	twist	soccer	0	0
+19	M	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	soccer	0	1
+18	F	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	soccer	0	0
+17	M	L	0	0	0	0	0	0	0	1	1	1	0	twist	football	0	0
+30	M	R	0	0	0	0	0	0	0	1	1	1	0	plant	football	0	0
+40	M	L	0	0	0	0	0	0	0	0	1	1	0	twist	none	0	0
+31	F	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	none	0	0
+24	M	L	0	0	0	0	0	0	0	1	1	1	0	unspecified	other	0	0
+29	M	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	other	0	0
+19	M	R	1	1	0	1	0	0	0	1	1	1	0	hyperextend	football	0	0
+40	F	R	0	0	0	0	0	0	0	1	1	1	0	unspecified	exercise	0	0
+18	F	R	1	1	0	1	0	0	0	0	1	1	0	twist	soccer	0	1
+16	M	L	1	0	0	0	0	0	0	0	1	1	0	plant	none	0	0
+35	F	R	1	1	0	1	0	1	0	1	1	1	0	unspecified	volleyball	0	0
+33	F	L	1	1	1	1	0	0	1	0	1	1	1	unspecified	basketball	0	0
+25	F	L	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+16	F	L	1	1	0	1	0	0	0	1	1	1	0	hyperextend	none	0	0
+37	M	R	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+35	F	R	1	1	1	1	0	0	0	1	1	1	0	unspecified	soccer	0	0
+43	M	R	0	0	0	0	0	0	0	0	1	1	0	landing	none	0	0
+16	M	R	0	0	0	0	0	0	0	0	1	1	1	no inciting event	none	0	0
+42	M	R	0	0	0	0	0	0	0	0	1	1	0	twist	none	0	0
+18	F	L	1	1	1	1	0	0	0	0	1	1	0	landing	none	0	0
+39	M	L	1	1	0	1	0	0	0	1	1	1	0	twist	basketball	0	0
+15	F	L	1	0	1	1	0	0	0	1	1	1	0	landing	basketball	0	0
+24	F	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	exercise	0	0
+21	F	R	0	0	0	0	0	0	0	0	1	1	0	unspecified	none	0	0
+28	F	R	1	0	1	1	0	0	0	1	1	1	0	unspecified	none	0	0
+26	F	R	0	0	0	0	0	0	0	0	1	1	1	no inciting event	none	0	0
+22	M	L	1	1	0	1	0	0	0	1	1	0	0	plant	basketball	0	0
+22	M	R	1	0	0	1	0	0	0	1	1	1	0	plant	none	0	0
+30	M	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	none	0	0
+28	M	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	none	0	1
+31	F	R	0	0	1	0	0	0	0	1	1	1	0	unspecified	other	0	0
+55	M	L	0	0	0	0	0	0	0	0	1	1	1	unspecified	none	1	0
+39	F	L	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+41	F	L	0	0	1	0	0	0	0	0	1	1	0	unspecified	none	1	0
+33	M	L	0	0	0	0	0	0	0	0	1	1	0	unspecified	exercise	0	0
+20	F	L	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+18	M	L	0	0	0	0	0	0	0	1	1	1	0	unspecified	none	0	1
+39	F	R	0	0	1	0	0	0	1	1	1	1	0	no inciting event	none	0	0
+18	F	L	1	1	1	1	0	0	0	1	1	0	0	unspecified	none	1	0
+55	F	R	0	0	1	0	0	0	0	1	1	0	0	landing	other	1	0
+35	M	R	0	0	0	0	0	0	0	0	1	0	1	unspecified	none	0	1
+49	F	R	0	0	0	0	0	0	0	0	1	0	1	no inciting event	none	0	0
+47	M	R	0	0	0	0	0	0	0	0	1	0	0	twist	none	0	0
+51	F	R	0	0	0	0	0	0	0	1	1	0	1	valgus	none	0	0
+49	F	R	0	0	0	0	0	0	0	0	1	0	0	twist	none	0	0
+46	F	L	0	0	1	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+35	F	L	0	0	0	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+51	F	R	0	0	0	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+59	M	R	0	0	0	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+49	M	L	0	0	1	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+28	M	L	0	0	0	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+29	M	R	0	0	0	0	0	0	0	1	1	0	0	unspecified	none	0	1
+30	M	L	0	1	0	0	0	0	0	1	1	0	0	unspecified	other	0	0
+23	F	R	1	1	1	1	1	1	1	1	1	1	0	landing	none	0	0
+19	F	L	1	1	0	1	0	0	0	1	1	0	0	unspecified	none	1	0
+28	F	L	1	1	0	1	0	0	0	0	1	0	0	plant	none	0	0
+23	F	L	1	1	1	1	1	1	1	0	1	0	1	unspecified	other	0	0
+36	M	L	1	1	1	1	0	0	0	1	1	0	0	unspecified	none	0	0
+29	M	R	0	0	0	0	0	0	0	0	1	1	0	no inciting event	none	0	0
+39	M	L	0	0	1	0	0	0	1	0	1	0	0	unspecified	none	0	0
+26	M	R	0	0	1	0	0	0	1	1	1	0	0	unspecified	none	0	0
+34	F	R	0	0	0	0	0	0	0	0	1	0	0	unspecified	none	0	0
+23	F	L	0	0	0	0	0	0	0	0	1	0	0	unspecified	none	0	0
+26	F	L	0	0	0	0	0	0	0	0	1	0	0	unspecified	none	0	1
+24	M	L	0	0	0	0	0	0	0	0	1	0	0	unspecified	soccer	0	0
+29	F	L	0	0	0	0	0	0	0	0	1	0	0	unspecified	exercise	0	0
+25	M	R	0	0	0	0	0	0	0	0	1	0	0	unspecified	exercise	0	0
+15	F	L	0	0	0	0	0	0	0	0	1	0	0	unspecified	none	0	0
+27	M	R	0	0	0	0	0	0	0	0	1	0	0	no inciting event	none	0	0
+26	F	L	0	0	0	0	0	0	0	0	1	0	1	hyperextend	none	0	0
+27	F	L	0	0	0	0	0	0	1	0	1	0	0	unspecified	none	0	0
+19	F	L	0	0	0	0	0	0	0	1	1	0	0	unspecified	none	0	0
+28	M	R	0	0	0	0	0	0	0	0	1	0	0	unspecified	soccer	0	0
